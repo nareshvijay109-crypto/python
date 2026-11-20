@@ -173,20 +173,20 @@ def format_registration(raw):
 def build_with_plus(records):
     statement = ""
     for index, record in enumerate(records, start=1):
-        statement += f"{index}. {record}\\n"
+        statement += f"{index}. {record}\n"
     return statement
 
 
 def build_with_join(records):
     parts = []
     for index, record in enumerate(records, start=1):
-        parts.append(f"{index}. {record}\\n")
+        parts.append(f"{index}. {record}\n")
     return "".join(parts)
 
 
 def build_with_fstring_lines(records):
     return "".join(
-        f"{index}. {record}\\n"
+        f"{index}. {record}\n"
         for index, record in enumerate(records, start=1)
     )
 
@@ -296,7 +296,7 @@ def q6_demo():
 
 def build_statement_revised(records):
     return "".join(
-        f"{index}. {record}\\n"
+        f"{index}. {record}\n"
         for index, record in enumerate(records, start=1)
     )
 
