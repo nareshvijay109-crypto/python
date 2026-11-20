@@ -5,7 +5,7 @@
 **Course:** Python Programming | **CO:** CO2 | **Marks:** 50
 
 ## Files
-- Assignment_2_Detailed_Report.pdf — detailed report prepared for submission (PDF attached in this chat).
+- Assignment_2_Detailed_Report.pdf — detailed report is provided as a downloadable attachment in this chat.
 - Assignment_2_Detailed_Report.md — written report.
 - assignment2_solution.py — executable examples for Q1–Q7.
 
