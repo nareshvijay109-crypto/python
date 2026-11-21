@@ -197,7 +197,7 @@ rate = 30 + fat_steps * 0.40 + snf_steps * 0.30
 amount = round(litres * rate, 2)
 print(fat_steps, snf_steps, rate, amount)
 Page 4
-CSA08 – Assignment 1 | Rajavignesh .M | 1965260138
+CSA08 – Assignment 1 | Naresh vijay R |1972260060
 Output: 7 2 33.4 283.9
 Precedence and surprising results
 print(2 + 3 * 4)       # 14
@@ -254,7 +254,7 @@ def rate_per_litre(fat, snf):
     fat_steps = round((fat - 3.5) / 0.1)
     snf_steps = round((snf - 8.5) / 0.1)
 Page 5
-CSA08 – Assignment 1 | Rajavignesh .M | 1965260138
+CSA08 – Assignment 1 | Naresh Vijay R |1972260060
     return round(BASE_RATE + fat_steps * FAT_STEP_VALUE
                  + snf_steps * SNF_STEP_VALUE, 2)
 def payout(litres, fat, snf):
@@ -397,7 +397,7 @@ F103
 283.90
 333.60
 Page 7
-CSA08 – Assignment 1 | Rajavignesh .M | 1965260138
+CSA08 – Assignment 1 | Naresh Vijay R|1972260060
 Total = Rs. 300.00 + Rs. 283.90 + Rs. 333.60 = Rs. 917.50. Storing all entries requires O(n) time and O(n) extra space. A
 running total takes O(n) time and O(1) extra space, but storing records is useful for audit history, corrections and
 individual reports.
@@ -463,9 +463,9 @@ F102
 8.7
 F103
 12
-Page 8
-CSA08 – Assignment 1 | Rajavignesh .M | 1965260138
-CSA08 – Assignment 1 | Rajavignesh .M | 1965260138 Page 9
+Page 
+CSA08 – Assignment 1 | Rajavignesh .M | 1972260060
+CSA08 – Assignment 1 | Naresh Vijay R |11972260060
 3.1
 8.3
 Expected payments: F101 Rs. 300.00; F102 Rs. 283.90; F103 Rs. 333.60. Ten-day total: Rs. 917.50.
@@ -634,7 +634,7 @@ B. Evaluate the original design (2 Marks)
 Example: fat 4.25%, SNF 8.63%. Fat difference is 0.75%, or 7.5 steps, rounded half-up to 8. SNF difference is 0.13%, or
 1.3 steps, rounded to 1.
 Page 11
-CSA08 – Assignment 1 | Rajavignesh .M | 1965260138
+CSA08 – Assignment 1 |Naresh Vijay R |1972260060
 Season
 April–June
 Calculation
