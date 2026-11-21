@@ -5,8 +5,8 @@ Student Name
 Register Number
 Course
 Assignment
-Rajavignesh .M
-1965260138
+Naresh vijay R
+1972260060
 CSA08 – Python Programming
 1 – Payment Calculator
 Total Marks
